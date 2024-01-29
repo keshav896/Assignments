@@ -1,0 +1,5 @@
+O1Pwskills cannot be variable name because it start with number.
+_FLOAT can be variable name because underscore(_) is acceptable.
+int cannot be variable name because it is a keyword.
+FlOAT can be variable name beacausse c++ is a case sensitive.
+you will succeed cannot be variable name because whitespace is not acceptable in variable name.
