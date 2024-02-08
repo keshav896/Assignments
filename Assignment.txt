@@ -1,9 +1,0 @@
-Question 5 : The minimum number of functions present in any c++ program is 
-Answer : 1 (main functions)
-
-Question 6 : 
-A function may be called more than once from any other function. : True
-It is necessary for a function to return some value. False , we can define void function in which we doesn't return any thing.
-
-Question 7 : Can the same function name be used for different functions without any conflict ?
-Answer: Yes, same function name  can be used  for different funtion but their should be different arguments.
