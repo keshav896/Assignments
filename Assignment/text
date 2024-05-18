@@ -1,0 +1,6 @@
+Answer-1 : it is stable sort  
+           it involves swapping of adjacent elements 
+           After each iteration, the greatest element is placed at the end of the array.
+
+Answer-2 : [1,2,5,4,3,6]
+Answer-3 : When the array is sorted in increasing order.
