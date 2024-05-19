@@ -1,0 +1,6 @@
+Answer-1 : In each iteration we find the minimum element in the unsorted part of the array.
+           In each Iteration we find the index of the minimum element in the unsorted part of the array.
+           We swap the index of the minimum element with the first element of the array.
+           It takes 0(n^2) swaps.
+Answer-2 : Array sorted in reverse order.
+Answer-3 : 4
